@@ -11,9 +11,7 @@ CHat gpt para levantamento de ideias
 pedi sugestões de ideias ao chat gpt, ele sujeriu um trocadilho, pensei em um simples mas filosófico, brincando com a sonoridade da palavra AI e AM I
 
 ## 🚀 Resultados
-<video src="RodrigoPrazeres/Project_lab-natty-or-not/RESULTADO/Philosophical-pun-joke-for-project.mp4" width="640" height="360" controls>
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+Arquivo dentro da pasta resultado
 
 
 ## 💭 Reflexão (Opcional)
